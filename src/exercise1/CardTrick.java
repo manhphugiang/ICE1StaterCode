@@ -62,6 +62,5 @@ public class CardTrick {
         System.out.println("-- Reading books about economy");
 
         System.out.println();
-
     }
 }
