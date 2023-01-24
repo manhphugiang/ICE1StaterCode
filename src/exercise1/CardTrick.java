@@ -64,5 +64,4 @@ public class CardTrick {
         System.out.println();
 
     }
-
 }
