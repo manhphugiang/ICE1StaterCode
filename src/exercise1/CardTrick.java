@@ -47,12 +47,13 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
 
-        System.out.println("My name is Manh Phu Giang, but you can call me Manh");
+        System.out.println("My name is ManhPhu Giang. My student number is 991685007");
         System.out.println();
 
         System.out.println("My career ambitions:");
-        System.out.println("-- Write code without duplicates too much ");
+        System.out.println("-- Write code without duplicates too much. ");
         System.out.println("-- Have a semester with no violations of academic integrity!");
+        System.out.println("-- Have a semester a good grade");
         System.out.println();
 
         System.out.println("My hobbies:");
